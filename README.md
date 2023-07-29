@@ -1,14 +1,5 @@
 # Proj-final-EngSoft
 
-## Repositório do projeto
-https://github.com/Mathweuzz/Proj-final-EngSoft
-
-## Participantes
-- Eduardo Marques Pereira - 211021004
-- Gabriel Amaro Baxto - 190087331
-- Mateus Gomes de Araújo - 202014440
-- Yan Tavares de Oliveira - 202014323
-
 # Relatório: Entrega 1
 
 ## Planejamento inicial
